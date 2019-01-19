@@ -1,4 +1,4 @@
-package com.example.arjun.designpatternandroid;
+package com.example.arjun.designpatternandroid.bread;
 
 public class Brioche implements Bread
 {

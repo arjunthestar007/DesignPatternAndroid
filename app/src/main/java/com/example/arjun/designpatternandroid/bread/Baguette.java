@@ -1,6 +1,6 @@
-package com.example.arjun.designpatternandroid;
+package com.example.arjun.designpatternandroid.bread;
 
-public class Baguette implements Bread{
+public class Baguette implements Bread {
 
     @Override
     public String name() {

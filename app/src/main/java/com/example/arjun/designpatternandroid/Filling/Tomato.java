@@ -1,10 +1,10 @@
-package com.example.arjun.designpatternandroid;
+package com.example.arjun.designpatternandroid.Filling;
 
-public class Roll implements Bread
+public class Tomato implements Filling
 {
     @Override
     public String name() {
-        return "Roll";
+        return "Tomato";
     }
 
     @Override
